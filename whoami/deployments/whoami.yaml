@@ -13,5 +13,5 @@ spec:
         app: whoami
     spec:
       containers:
-      - name: whoami-container
-        image: traefik/whoami
+        - name: whoami-container
+          image: traefik/whoami
